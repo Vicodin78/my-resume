@@ -9,3 +9,5 @@
 1. Третий навык
 
 Вот так!
+
+![img](https://github.com/Vicodin78/my-resume/blob/master/img/img_1.jpg)
